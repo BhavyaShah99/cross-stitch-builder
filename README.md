@@ -6,4 +6,4 @@ It uses k-means clustering algorithm in R to cluster the image colors together t
 
 Take a look at the vignette to understand how to use these functions to build your cross-stitch.
 
-To use the functions, place source("functions.R") at the top of your R script.
+To use the functions place source("functions.R") at the top of your R script.
